@@ -6,7 +6,7 @@ This repository contains a network topology demonstrating the configuration of O
 - SWITCHES: Three switches providing network connectivity.
 - PCs: Four PCs connected to various network segments for testing and demonstration purposes.
 
-CONTENTS
+# CONTENTS
 - Topology Diagram: A visual representation of the network layout.
 - Configuration Files: Configuration files for each router in the topology.
 
